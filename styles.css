@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+
+  padding: 0 16px;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+h2{
+
+color: #fff;
+font-family: "McLaren", cursive;
+font-weight: 200;
+display: inline-block;
+}
+
+
+ h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  line-height: 1.5px;
+
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p {
+  color: #ccc;
+}
+
+.container{
+  text-align: center;
+    font-family: "McLaren", cursive;
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+
+}
+
+.games{
+  padding: 2rem;
+  margin: 2.5rem;
+}
